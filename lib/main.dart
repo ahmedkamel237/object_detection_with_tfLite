@@ -108,7 +108,7 @@ class _ObjectDetectionScreenState extends State<ObjectDetectionScreen> {
               onPressed: _pickImage,
               child: const Text('Pick Image from Gallery'),
             ),
-            const SizedBox(height: 20),
+            const SizedBox(height: 22),
             Text(v),
           ],
         ),
